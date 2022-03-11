@@ -15,3 +15,5 @@
 ## springboot 整合MySQL canal从入门到放弃
 
 ## springboot 整合clickhouse从入门到放弃
+
+## K8s从入门到放弃
