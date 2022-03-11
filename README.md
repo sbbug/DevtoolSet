@@ -19,4 +19,4 @@ kafka使用集群部署
 
 ## K8s从入门到放弃
 
-## graphQL 从放弃到入门
+## GraphQL 从放弃到入门
