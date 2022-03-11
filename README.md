@@ -18,3 +18,5 @@ kafka使用集群部署
 ## springboot 整合clickhouse从入门到放弃
 
 ## K8s从入门到放弃
+
+## graphQL 从放弃到入门
