@@ -10,7 +10,7 @@ ES分单机和集群两种模式部署
 [link](https://gitee.com/sbbug/springboot-elasticsearch)
 
 ## springboot 整合kafka从入门到放弃
-kafka使用集群部署  
+kafka和zookeeper分别使用集群部署  
 [link](https://gitee.com/sbbug/springboot-kafka)
 ## springboot 整合RocketMQ从入门到放弃
 
