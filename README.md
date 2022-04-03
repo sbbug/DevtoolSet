@@ -32,6 +32,9 @@ kafka和zookeeper分别使用集群部署
 
 ## springboot集成分布式动态配置中心
 
+#### springboot 集成Nacos
+[link](https://gitee.com/sbbug/springboot-nacos)
+
 
 ## springboot集成高并发利器
 
