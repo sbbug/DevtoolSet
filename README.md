@@ -48,4 +48,6 @@ kafka和zookeeper分别使用集群部署
 
 [link](https://gitee.com/sbbug/git-note)
 
+## Linux 常用操作命令
 
+[link](https://gitee.com/sbbug/linux-shell-note)
