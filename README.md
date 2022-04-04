@@ -26,6 +26,8 @@ kafka和zookeeper分别使用集群部署
 
 ## GraphQL 从放弃到入门
 
+[link](https://gitee.com/sbbug/springboot-graph-ql)
+
 ## Jmeter压测工具从放弃到入门
 
 #### 工具入门
