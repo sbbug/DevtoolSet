@@ -51,6 +51,8 @@ kafka和zookeeper分别使用集群部署
 
 #### springboot整合常用限流、降级、熔断组件
 
+## springboot整合XXL-job 实现分布式定时任务
+
 ## git 命令各种使用case
 
 [link](https://gitee.com/sbbug/git-note)
