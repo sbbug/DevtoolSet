@@ -60,6 +60,11 @@ kafka和zookeeper分别使用集群部署
 [link1](https://github.com/MyHerux/drools-springboot/tree/master)  
 [link2](https://github.com/ityouknow/drools-examples)
 
+## 业界常用数据库分库分表插件
+
+[Zebra](https://github.com/Meituan-Dianping/Zebra)
+[sharding-sphere](https://github.com/apache/shardingsphere)
+
 ## git 命令各种使用case
 
 [link](https://gitee.com/sbbug/git-note)
